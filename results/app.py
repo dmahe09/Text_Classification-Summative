@@ -1,7 +1,7 @@
 import gradio as gr, torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-MODEL_ID = "best_model"   # local folder, or a Hugging Face Hub id such as "your-username/hausa-news-classifier"
+MODEL_ID = "dmahe09/hausa-news-classifier"   # local folder, or a Hugging Face Hub id such as "your-username/hausa-news-classifier"
 MAX_LEN = 256
 tok = AutoTokenizer.from_pretrained(MODEL_ID)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL_ID).eval()
