@@ -3,16 +3,15 @@
 Classify Hausa news articles into one of seven topics, comparing classical, recurrent and Transformer models, and serve the best one as a web app.
 
 **Individual capstone project, Text Classification for an African language, October 2026**
-**Author:** [Your name] · **Course:** [Course / Programme]
+**Author:** MAHE Digne · **Course:** ML Techniques I
 
 ## Project links
 
 | Resource | Link |
 |---|---|
-| Live system (Gradio app) | [ADD LINK] |
-| Demo video (7–10 min) | [ADD LINK] |
-| Full report (PDF) | [ADD LINK or path in this repo] |
-| Fine-tuned model (Hugging Face Hub) | [ADD LINK, e.g. https://huggingface.co/dmahe09/hausa-news-classifier] |
+| Live system (Gradio app) | https://b0dee0b6cc76966290.gradio.live/ |
+| Demo video |    (https://drive.google.com/drive/folders/1VSV1RG_5_5GSGIMpMCwc9x0Le2Pro474) |
+| Fine-tuned model (Hugging Face Hub) | https://huggingface.co/dmahe09/hausa-news-classifier    |
 
 > **About the live system:** the app is run from a Google Colab notebook (`run_app_colab.ipynb`) using a temporary public Gradio link, so the link expires and changes each time the notebook is started. See [Run the app](#run-the-app) to launch your own copy in a few minutes. The demo video shows the app working. *(Edit this note if you host it somewhere permanent.)*
 
