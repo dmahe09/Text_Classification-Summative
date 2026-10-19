@@ -13,7 +13,7 @@ Classify Hausa news articles into one of seven topics, comparing classical, recu
 | Demo video |    (https://drive.google.com/drive/folders/1VSV1RG_5_5GSGIMpMCwc9x0Le2Pro474) |
 | Fine-tuned model (Hugging Face Hub) | https://huggingface.co/dmahe09/hausa-news-classifier    |
 
-> **About the live system:** the app is run from a Google Colab notebook (`run_app_colab.ipynb`) using a temporary public Gradio link, so the link expires and changes each time the notebook is started. See [Run the app](#run-the-app) to launch your own copy in a few minutes. The demo video shows the app working. *(Edit this note if you host it somewhere permanent.)*
+> **About the live system:** the app is run from a Google Colab notebook (`run_app_colab.ipynb`) using a temporary public Gradio link, so the link expires and changes each time the notebook is started. See [Run the app](#run-the-app) to launch your own copy in a few minutes. The demo video shows the app working. 
 
 ## Contents
 
